@@ -1,10 +1,10 @@
 # Eksplorasi Isi Buku Michael Salla
 
-<img src="https://github.com/phiagus-design/Michael_Salla/TimeLine/et_human_timeline.png" alt="Lini Masa Peristiwa dalam Berbagai Topik di Buku-buku M.Salla" width="500">
+<img src="Timeline/et_human_timeline.png" alt="Lini Masa Peristiwa dalam Berbagai Topik di Buku-buku M.Salla" width="500">
 
 
 
-![Lini Masa Peristiwa dalam Berbagai Topik di Buku-buku M.Salla](Timeline/et_human_timeline.png)
+
 
 Michael Salla menulis buku-buku yang bertemakan eksopolitik. Isinya menceritakan aktivitas di luar berita dan pengetahuan publik, yang entah benar atau tidak. Aktivitas tersebut melibatkan masyarakat atau individu umum, pemerintah, organisasi rahasia, dan alien. Selain itu termuat pula penjelasan mengenai teknologi tinggi, lingkungan aneh di dalam Bumi dan situasi di planet lain serta satelitnya.
 
