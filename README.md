@@ -1,5 +1,7 @@
 # Eksplorasi Isi Buku Michael Salla
 
+![Lini Masa Peristiwa dalam Berbagai Topik di Buku-buku M.Salla](TimeLine/et_human_timeline.png)
+
 Michael Salla menulis buku-buku yang bertemakan eksopolitik. Isinya menceritakan aktivitas di luar berita dan pengetahuan publik, yang entah benar atau tidak. Aktivitas tersebut melibatkan masyarakat atau individu umum, pemerintah, organisasi rahasia, dan alien. Selain itu termuat pula penjelasan mengenai teknologi tinggi, lingkungan aneh di dalam Bumi dan situasi di planet lain serta satelitnya.
 
 Halaman ini memuat catatan eksplorasi isi buku tersebut menggunakan Large Language Model (LLM) Gemini, Claude dan ChatGPT. Kesesuaian hasil analis oleh LLM dengaan isi yang termuat di dalam buku, tidak saya verifikasi, kecuali pada bagian tertentu yang saya beri tanda. Prompt (promp chat dan prompt di *system instruction*) yang saya gunakan juga dapat dilihat di dalam direktori setiap topik. Buku dilampirkan dalam format teks agar LLM efisien (token kecil) dalam memprosesnya. 
