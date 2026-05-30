@@ -9,7 +9,7 @@ Halaman ini memuat catatan eksplorasi isi buku tersebut menggunakan Large Langua
 Halaman ini bersifat dinamis, selalu berubah kapanpun ada informasi baru yang saya hasilkan.
 
 ## ClaudeAi
-Saya memanfaatkan **Project** dan memasukan semua buku dalam *Project Knowledge*. Saya juga memanfaatkan **Skill** dan menyusunnya menggunakan fitur membuat *Skill* di ClaudeAi. Semua *Skill* yang saya gunakan ada di [Daftar Skill](Skill/)
+Saya memanfaatkan **Project** dan memasukan semua buku dalam *Project Knowledge*. Saya juga memanfaatkan **Skill** dan menyusunnya menggunakan fitur membuat *Skill* di ClaudeAi. Semua *Skill* yang saya gunakan ada di [Daftar Skill](Skills)
 
 ## Gemini
 Saya menggunakan fitur koneksi *NotebookLM* dengan chat *Gemini*. *Skill* dari **ClaudeAi** diletakkan dalam *System Instruction* pada *NotebookLM setting*. Konten dihasilkan baik dari chat di halaman *Gemini* maupun di halaman *NotebookLM*.
