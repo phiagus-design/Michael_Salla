@@ -9,7 +9,7 @@ Halaman ini memuat catatan eksplorasi isi buku tersebut menggunakan Large Langua
 Halaman ini bersifat dinamis, selalu berubah kapanpun ada informasi baru yang saya hasilkan.
 
 ## ClaudeAi
-Saya memanfaatkan **Project** dan memasukan semua buku dalam *Project Knowledge*. Saya juga memanfaatkan **Skill** dan menyusunnya menggunakan fitur membuat *Skill* di ClaudeAi. 
+Saya memanfaatkan **Project** dan memasukan semua buku dalam *Project Knowledge*. Saya juga memanfaatkan **Skill** dan menyusunnya menggunakan fitur membuat *Skill* di ClaudeAi. Semua *Skill* yang saya gunakan ada di [Daftar Skill](Skill/)
 
 ## Gemini
 Saya menggunakan fitur koneksi *NotebookLM* dengan chat *Gemini*. *Skill* dari **ClaudeAi** diletakkan dalam *System Instruction* pada *NotebookLM setting*. Konten dihasilkan baik dari chat di halaman *Gemini* maupun di halaman *NotebookLM*.
@@ -22,3 +22,6 @@ Saya menggunakan fitur koneksi *NotebookLM* dengan chat *Gemini*. *Skill* dari *
 5. **Secret Space Programs, Book 6 _ Space Force_ Our Star Trek** -- Michael Salla -- Secret Space Programs; 6, 2021 -- Exopolitics Consultants -- 9f81ca5590d79153ae350d2e768f44c1 -- Anna’s Archive.epub
 6. **The U_S_ Navy's Secret Space Program and Nordic** -- Salla, Michael -- Secret Space Programs 2, 2017 -- Exopolitics Consultants -- c43ef25a492df5d84063b7ab51f0d05e -- Anna’s Archive.epub
 7. **US Army Insider Missions_ Space Arks, Underground Cities** & -- Michael Salla -- 2023 -- d6ca88c971728a1a115a9154ad97cc32 -- Anna’s Archive.epub
+
+## Catatan
+Jika dalam suatu direktori terdapat file *Belum_Selesai_Upload.md*, berarti masih dalam pengerjaan.
