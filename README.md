@@ -1,6 +1,6 @@
 # Eksplorasi Isi Buku Michael Salla
 
-<img src="Timeline/et_human_timeline.png" alt="Lini Masa Peristiwa dalam Berbagai Topik di Buku-buku M.Salla" width="500">
+<img src="Timeline/et_human_timeline.png" alt="Lini Masa Peristiwa dalam Berbagai Topik di Buku-buku M.Salla" width="900">
 
 
 
